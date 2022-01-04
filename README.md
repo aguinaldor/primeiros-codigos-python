@@ -30,6 +30,16 @@ It is helpfull to think of a string as an ordered sequence. Each element in the 
 # We can find the number of characters in a string (quantidade de caracteres )
 len ("michael jacskson")
 # 15  caracters
+#Slicing
+ we can obtain multiple characteres from a string using slicing, we can obtain the 0 to 4th and 8th to the 12th element
+      name="Michael Jackson"
+#MICHAEL JACKSON
+NAME[O:4] = MICH NAME[8:12]= JACK
+#stride
+We can also input a stride value as follow, with '2' indicating that we are selecting every seconf variable:
+#Name "michael jackson"
+name[::2]: "mcaljcsn"
+#Concatenate
 
 
 
